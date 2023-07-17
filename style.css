@@ -1,0 +1,58 @@
+   body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+  .background-image{
+	background-image:url('https://wallup.net/wp-content/uploads/2016/05/25/331828-minimalism-pattern-digital_art.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	
+	}    
+    header {
+      background-color: pink;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      margin: 0;
+      color:black;
+      font-size: 28px;
+    }
+    h2{
+      margin: 0;
+      color:white;
+      } 
+    h3{
+      margin: 0;
+      color:white;
+      }  
+    p{
+      margin: 0;
+      color:white;
+      } 
+   ul{
+      margin: 0;
+      color:white;
+      }   
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    .gallery-item {
+      background-color: black;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      font-size: 14px;
+    }
